@@ -1,15 +1,8 @@
 ---
-title: Home
 layout: default
+title: About
 ---
 
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>Home</title>
-  </head>
-  <body>
-    <h1>{{ "DaQu" | downcase }}</h1>
-  </body>
-</html>
+# About page
+
+This page tells you a little bit about me David.
