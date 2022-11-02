@@ -1,6 +1,6 @@
 ---
-layout: default
 title: Home
+layout: default
 ---
 
 <!DOCTYPE html>
@@ -10,6 +10,6 @@ title: Home
     <title>Home</title>
   </head>
   <body>
-    <h1>{{ "Hello World! Nova pagina Web" | downcase }}</h1>
+    <h1>{{ "DaQu" | downcase }}</h1>
   </body>
 </html>
